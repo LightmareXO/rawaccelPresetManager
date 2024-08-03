@@ -1,1 +1,2 @@
 # rawaccelPresetManager
+rawaccelのプリセットを保存＆読み込みをするアプリです
